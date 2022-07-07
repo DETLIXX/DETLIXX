@@ -22,6 +22,7 @@
 <a href="https://instagram.com/detlixx" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="detlixx" height="30" width="40" /></a>
 </p>
 
+<h3>Something about me</h3>
 <p>When i was 15, i was interested in coding, so i start with c# because it was something what i found "first", then i made few apps, only fun made, then i try code some Discord Bot using c# it was fun, but yeah i quit it. In 2020 i buy my new gaming pc, so I start learning Unity, and i made few games which i never post on git so i lost it when i sold my pc 😖 so now i am learing Web Dev but with using Git 😂 </p>
 
 <h3 align="left">Languages and Tools:</h3>
