@@ -2,16 +2,9 @@
 <p align="center"><img src="https://c.tenor.com/KP0vkZ21aioAAAAM/mandalorian-baby-yoda.gif"></p>
 <h3 align="center">I am 20y old Front & Back End Beginner Developer from Slovakia</h3>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=detlixx&label=Profile%20views&color=0e75b6&style=flat" alt="detlixx" /> </p>
-
-- 🔭 I’m currently working on **Udemy Course**
+<h3>Info About</h3>
 
 - 🌱 I’m currently learning **Front & Back End**
-
-- 👯 I’m looking to collaborate on **None**
-
-- 🤝 I’m looking for help with **Nothing**
 
 - 👨‍💻 You can check my Personal/Portfolio site [Just click here](https://detlixx.github.io/Portfolio/)
 
@@ -21,7 +14,7 @@
 
 <h3 align="left">Also you can check my Socials:</h3>
 <p align="left">
-<a href="https://instagram.com/detlixx" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="detlixx" height="30" width="40" /></a>
+<a href="https://instagram.com/detlixx" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="detlixx" height="30" width="30"/></a>
 </p>
 
 <h3>Something about me</h3>
@@ -35,4 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=detlixx&show_icons=true&locale=en" alt="detlixx" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=detlixx&" alt="detlixx" /></p>
+
 
