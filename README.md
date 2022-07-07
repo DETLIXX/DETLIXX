@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Matus</h1>
 <h3 align="center">I am 20y old Front & Back End Beginner Developer from Slovakia</h3>
 
+<img src="https://c.tenor.com/KP0vkZ21aioAAAAM/mandalorian-baby-yoda.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=detlixx&label=Profile%20views&color=0e75b6&style=flat" alt="detlixx" /> </p>
 
 - 🔭 I’m currently working on **Udemy Course**
