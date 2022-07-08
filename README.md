@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Front & Back End**
 
-- 👨‍💻 You can check my Personal/Portfolio site [Just click here](https://detlixx.github.io/Portfolio/)
+- 👨‍💻 You can check my Personal/Portfolio site [Just click here](https://detlixx.github.io/Portfolio/redict)
 
 - 📫 How to reach me ? **Just go on my personal site, and there is Contact me Page**
 
