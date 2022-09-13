@@ -4,7 +4,7 @@
 
 <h3>Info About</h3>
 
-- 🌱 I’m **Frontend/Backend Deceloper**
+- 🌱 I’m **Frontend/Backend Developer**
 
 - 👨‍💻 You can check my Personal/Portfolio site [Just click here](https://detlixx.github.io/Portfolio/redict)
 
