@@ -6,7 +6,7 @@
 
 - 🌱 I’m **Frontend/Backend Developer**
 
-- 👨‍💻 You can check my Personal/Portfolio site [Just click here](https://detlixx.github.io/Portfolio/redict)
+- 👨‍💻 You can check my Personal/Portfolio site (its old, made years ago) [Just click here](https://detlixx.github.io/Portfolio/redict)
 
 - 📫 How to reach me ? **Just go on my personal site, and there is Contact me Page**
 
