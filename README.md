@@ -9,8 +9,6 @@
 
 - 📫 How to reach me ? Linkedin, Instagram or email
 
-<br /><br />
-
 <h3 align="left">Also you can check my Socials:</h3>
 <p align="left">
 <a href="https://instagram.com/detlixx" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="detlixx" height="30" width="30"/></a>
