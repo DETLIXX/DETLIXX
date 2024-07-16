@@ -9,11 +9,6 @@
 
 - 📫 How to reach me ? Linkedin, Instagram or email
 
-<h3 align="left">Also you can check my Socials:</h3>
-<p align="left">
-<a href="https://instagram.com/detlixx" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="detlixx" height="30" width="30"/></a>
-</p>
-
 <h3>Something about me</h3>
 <p>At 13, I started coding with C#. I made a few fun apps, but later shifted to learning Discord bot development. While it was enjoyable, I didn't see much opportunity in it. In 2018, I got into game development with Unity/Unreal Engine, creating games and seeking job opportunities. Now, I work as a Full Stack Web Developer for a mid-range company in Slovakia.</p>
 
