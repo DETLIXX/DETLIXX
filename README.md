@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Matus</h1>
-<h3 align="center">I AM 20Y OLD FULLSTACK DEVELOPER FROM SLOVAKIA</h3>
 
 <h3>Info About</h3>
 
