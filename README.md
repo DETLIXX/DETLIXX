@@ -1,21 +1,29 @@
-<h1 align="center">Hi 👋, I'm Matus</h1>
+<h1 align="center">yo</h1>
 
-<h3>Info About</h3>
+### about me or something
 
-- 🌱 just pressing some keys on keyboard and it somehow manages to be wokring
+- just pressing some keys on keyboard and it somehow manages to be wokring 
 
+---
 
-<h3>Projects</h3>
-- My bigges project also not finished because i have no time for it is [RevUp](https://www.revupapp.eu/) solo dev project as hobby <br> <br>
-- My own app to track spendings. I am bad at saving money so i made this [Little Savings](https://littlesavings.detlixx.com/) it was built in like 4 days with all features that i want and need <br> <br>
-- And more <3 <br> <br>
+### projects i guess
 
+- [RevUp](https://www.revupapp.eu/) – didn’t finish it lol
+- [Little Savings](https://littlesavings.detlixx.com/) – made it in like 4 days cuz i can’t save money  
+- more things maybe who knows  
 
-<h3>Worked for</h3> <br>
-- thiss s.r.o <br>
-- InterWay a.s <br>
-- Invest In Slovakia <br>
-- Now i am trying to build my own Starup and doing some side quests with my own clients <br> <br>
+---
 
-[![DETLIXX github stats](https://github-readme-stats.vercel.app/api?username=DETLIXX&show_icons=true&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&icon_color=000000)](https://github.com/DETLIXX?tab=repositories)
-[![DETLIXX github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DETLIXX&layout=donut&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&icon_color=000000)](https://github.com/DETLIXX?tab=repositories)
+### worked for
+
+- thiss s.r.o  
+- interway  
+- invest in slovakia  
+- now i just do random stuff for people and try to start something idk  
+
+---
+
+### stats (if you care)
+
+[![DETLIXX github stats](https://github-readme-stats.vercel.app/api?username=DETLIXX&show_icons=true&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&icon_color=000000)](https://github.com/DETLIXX?tab=repositories)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DETLIXX&layout=donut&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&icon_color=000000)](https://github.com/DETLIXX?tab=repositories)
