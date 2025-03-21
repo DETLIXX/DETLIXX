@@ -20,3 +20,9 @@
 - interway  
 - invest in slovakia  
 - now i just do random stuff for people and try to start something idk  
+
+---
+
+### stuff i use
+
+react / react native, mongodb, nestjs and other things i some random guys on internet suggests me
