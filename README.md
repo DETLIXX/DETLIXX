@@ -25,4 +25,4 @@
 
 ### stuff i use
 
-react / react native, mongodb, nestjs and other things i some random guys on internet suggests me
+react / react native, mongodb, nestjs and other things that some random guys on internet suggests me
