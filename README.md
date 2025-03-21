@@ -6,8 +6,8 @@
 
 
 <h3>Projects</h3>
-- My bigges project also not finished because i have no time for it is [RevUp](https://www.revupapp.eu/) solo dev project as hobby <br>
-- My own app to track spendings. I am bad at saving money so i made this [Little Savings](https://littlesavings.detlixx.com/) it was built in like 4 days with all features that i want and need <br>
+- My bigges project also not finished because i have no time for it is [RevUp](https://www.revupapp.eu/) solo dev project as hobby <br> <br>
+- My own app to track spendings. I am bad at saving money so i made this [Little Savings](https://littlesavings.detlixx.com/) it was built in like 4 days with all features that i want and need <br> <br>
 - And more <3 <br> <br>
 
 
