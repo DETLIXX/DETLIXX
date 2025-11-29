@@ -1,7 +1,6 @@
 <h1 align="center">yo</h1>
 
 ### about me or something
-- I, HATE, AI, FOR, WORK, I, DONT, USE, IT
 - just pressing some keys on keyboard and it somehow manages to be wokring 
 
 ---
