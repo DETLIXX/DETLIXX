@@ -8,7 +8,8 @@
 ### latest projects i guess
 
 - [RevUp](https://www.revupapp.eu/) – didn’t finish it lol
-- [Little Savings](https://littlesavings.detlixx.com/) – made it in like 4 days cuz i can’t save money  
+- [Little Savings](https://littlesavings.detlixx.com/) – made it in like 4 days cuz i can’t save money
+- [Loyalli](https://loyalli.detlixx.com/) – Save your loyalty cards like a pro 😎
 - more things maybe who knows  
 
 ---
