@@ -19,8 +19,13 @@
 - thiss s.r.o  
 - interway  
 - invest in slovakia  
-- working for localhost.company on Caterpillar project as React Native Dev Contractor
 
+---
+
+### working for
+
+- working for localhost.company on Caterpillar project as React Native dev contractor
+- 
 ---
 
 ### stuff i use
