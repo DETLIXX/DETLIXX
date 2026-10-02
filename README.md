@@ -25,7 +25,7 @@
 ### working for
 
 - working for localhost.company on Caterpillar project as React Native dev contractor
-- 
+
 ---
 
 ### stuff i use
